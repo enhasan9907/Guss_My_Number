@@ -28,4 +28,9 @@ This is a simple number guessing game built with HTML, CSS, and JavaScript. The 
 
 To run the game locally, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/enhasan9907/Guss_My_Number.git
+2. Open the `index.html` file in your web browser.
+
+## Contributing
+
+Contributions are welcome! If you have any ideas for improvements or bug fixes, feel free to open an issue or submit a pull request.
